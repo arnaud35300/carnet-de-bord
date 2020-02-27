@@ -23,7 +23,14 @@
 
 ### 27/02/2020 - Day 03
 
+- Réunion d'équipe
+- Mise en place du MCD
+- ajout de nouvelles routes pour gérer les types et les subtypes, et modification du cdc par conséquent
+- mise en place d'une convention de code
+- modification des routes
+- mise en place du MCD/MLD
 
+### 28/02/2020 - Day 04
 
 
 
