@@ -4,10 +4,27 @@
  
 ### 25/02/2020 - Day 01
  
+ - Réunion d'équipe
+ - Réflexion et mise en place du cahier des charges.
+ - Discussion autour de l'organisation du projet
+  
 ### 26/02/2020 - Day 02
-		
-### 27/02/2020 - Day 03
-		
-### 28/02/2020 - Day 04
+ 
+- authentification JWT token en full api Symfony
+- Mise en place du dictionnaire des données
 
-			
+### 27/02/2020
+- ajout de nouvelles routes pour gérer les types et les subtypes, et modification du cdc par conséquent
+- mise en place d'une convention de code
+- modification des routes
+- mise en place du MCD/MLD
+
+## Sprint 4 
+
+### 28/02/2020 - Day 01
+
+- renseignement sur l'authentification symfony en API: 
+	- https://symfony.com/doc/current/security/guard_authentication.html
+- recherche sur la création d'un projet skeleton symfony:
+	- https://github.com/O-clock-Alumni/fiches-recap/blob/master/symfony/themes/symfony-basics.md
+	

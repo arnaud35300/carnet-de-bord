@@ -24,13 +24,22 @@
 ### 27/02/2020 - Day 03
 
 - Réunion d'équipe
-- Mise en place du MCD
 - ajout de nouvelles routes pour gérer les types et les subtypes, et modification du cdc par conséquent
 - mise en place d'une convention de code
 - modification des routes
 - mise en place du MCD/MLD
 
+## Sprint 1
+
 ### 28/02/2020 - Day 04
 
+- Réunion d'équipe
+- Réflexion sur la map
+- Modification du mcd/mld/data-dictionnary : Ajout des champs x et y pour l'entité CelestialBody
+- Installation du serveur symfony et de ses dépendances
+
+### 01/03/2020 - Day 05
 
 
+
+ 
