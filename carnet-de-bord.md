@@ -31,14 +31,17 @@
 
 ## Sprint 1
 
-### 28/02/2020 - Day 04
+### 28/02/2020 - Day 01
 
 - Réunion d'équipe
 - Réflexion sur la map
 - Modification du mcd/mld/data-dictionnary : Ajout des champs x et y pour l'entité CelestialBody
 - Installation du serveur symfony et de ses dépendances
+- Création des entités, choix de l'encryptage des mots de passe (argon2i)
 
-### 01/03/2020 - Day 05
+### 01/03/2020 - Day 02
+
+- Réunion d'équipe
 
 
 
