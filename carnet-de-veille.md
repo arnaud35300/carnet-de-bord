@@ -33,4 +33,9 @@
 
 ### 02/03/2020
 
-- 
+- merge de 3 branch git
+- recherche sur le crud en api REST:
+	- https://medium.com/q-software/symfony-5-the-rest-the-crud-and-the-swag-7430cb84cd5
+- utilisation plus poussé d'insomnia:
+	- création de groupes de routes etc...
+	

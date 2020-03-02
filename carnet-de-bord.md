@@ -42,7 +42,12 @@
 ### 01/03/2020 - Day 02
 
 - Réunion d'équipe
+- Mise en place des fixtures
+- Création du service Slugger
+- Mise en place du UserController
 
+### 02/03/2020
 
+- Réunion d'équipe
 
  
