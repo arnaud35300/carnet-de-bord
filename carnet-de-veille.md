@@ -31,11 +31,18 @@
 	- https://github.com/O-clock-Alumni/fiches-recap/blob/master/symfony/themes/symfony-basics.md
 - compréhension des branches github
 
-### 02/03/2020
+### 02/03/2020 - Day 02
 
 - merge de 3 branch git
 - recherche sur le crud en api REST:
 	- https://medium.com/q-software/symfony-5-the-rest-the-crud-and-the-swag-7430cb84cd5
 - utilisation plus poussé d'insomnia:
 	- création de groupes de routes etc...
-	
+
+### 03/03/2020 - Day 03
+
+- documentation sur les token:
+	- Api platform
+	- Auth0
+	- LexiqJWTTokenBundle : https://github.com/lexik/LexikJWTAuthenticationBundle
+	 

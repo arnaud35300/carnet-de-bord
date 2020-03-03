@@ -39,15 +39,17 @@
 - Installation du serveur symfony et de ses dépendances
 - Création des entités, choix de l'encryptage des mots de passe (argon2i)
 
-### 01/03/2020 - Day 02
+### 02/03/2020 - Day 02
 
 - Réunion d'équipe
 - Mise en place des fixtures
 - Création du service Slugger
 - Mise en place du UserController
 
-### 02/03/2020
+### 03/03/2020 - Day 03
 
 - Réunion d'équipe
+- Review du code
+- Documentation sur LexiqJWTToken 
 
- 
+### 04/03/2020 - Day 04
