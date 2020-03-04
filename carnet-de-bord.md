@@ -53,3 +53,13 @@
 - Documentation sur LexiqJWTToken 
 
 ### 04/03/2020 - Day 04
+
+- Réunion d'équipe
+- Ajout des contraintes sur les entités
+- Modification des méthodes update et create de UserControler/CelestialBodyController
+- Création du AdminController
+- Review du code et respect de la convention de code 
+
+### 05/03/2020 - Day 05 
+
+- Réunion d'équipe

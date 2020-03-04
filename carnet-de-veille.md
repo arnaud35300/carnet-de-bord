@@ -45,4 +45,12 @@
 	- Api platform
 	- Auth0
 	- LexiqJWTTokenBundle : https://github.com/lexik/LexikJWTAuthenticationBundle
-	 
+ 
+### 04/03/2020 - Day 04
+
+- documentation sur les contraintes symfony: 
+	- https://symfony.com/doc/current/reference/constraints.html
+- problématique sur les contraintes d'entités symfony: 
+	- @Assert\Datetime
+
+### 05/03/2020 - Day 05
