@@ -63,3 +63,11 @@
 ### 05/03/2020 - Day 05 
 
 - Réunion d'équipe
+- Mise en place des events sur les entités
+- Réunion bilan sprint 01
+- Update des fixtures
+- Réflexion sur les query builders
+
+### 06/03/2020 - Day 06
+
+- Réunion d'équipe

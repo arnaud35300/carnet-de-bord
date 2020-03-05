@@ -54,3 +54,9 @@
 	- @Assert\Datetime
 
 ### 05/03/2020 - Day 05
+
+- documentation sur les events symfo:
+	- https://symfony.com/doc/current/doctrine/events.html
+- réflexion sur les querybuilders
+	- https://codereviewvideos.com/course/doctrine-performance-optimisations/video/doctrine-indexes
+	
