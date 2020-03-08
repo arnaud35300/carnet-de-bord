@@ -71,3 +71,10 @@
 ### 06/03/2020 - Day 06
 
 - Réunion d'équipe
+- Debug des routes/controller
+- Mise en place du serveur apache
+- Réecriture d'url 
+
+### 09/03/2020 - Day 07
+
+- Réunion d'équipe

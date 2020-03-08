@@ -60,3 +60,16 @@
 - réflexion sur les querybuilders
 	- https://codereviewvideos.com/course/doctrine-performance-optimisations/video/doctrine-indexes
 	
+### 06/03/2020 - Day 06
+
+- documentation sur les erreurs symfony:
+    - réglage des erreurs des routes
+- debug des routes, manipulation des dates:
+    - https://www.php.net/manual/fr/datetime.createfromformat.php
+- mise en place du serveur apache:
+	- creation : https://github.com/O-clock-Alumni/fiches-recap/blob/master/adminsys/aws/create_server.md
+	- installation: https://github.com/O-clock-Alumni/fiches-recap/blob/master/adminsys/aws/install.md
+	- replay :https://drive.google.com/drive/folders/1pbt_wqBxXgZ3qiOchMdKN1knFklI8iHv
+	- autres : https://github.com/arnaud35300/VMteleporteur/blob/master/README.md
+- réécriture d'url apache:
+	- https://forum.ubuntu-fr.org/viewtopic.php?id=164810
