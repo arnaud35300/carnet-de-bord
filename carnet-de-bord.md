@@ -78,3 +78,14 @@
 ### 09/03/2020 - Day 07
 
 - Réunion d'équipe
+- mise en place de NelmioCors pour gérer les soucis liés au CORS
+- mise en place de JWTRefreshTokenBundle pour l'authentification(token)
+- mise en place de JWTRefreshTokenBundle pour rafraichir les tokens a chaque requête
+
+## Sprint 2 
+
+### 09/03/2020 - Day 01
+
+- Réunion d'équipe
+- Présentation en équipe du projet
+- 

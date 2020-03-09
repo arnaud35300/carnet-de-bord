@@ -73,3 +73,17 @@
 	- autres : https://github.com/arnaud35300/VMteleporteur/blob/master/README.md
 - réécriture d'url apache:
 	- https://forum.ubuntu-fr.org/viewtopic.php?id=164810
+
+### 06/03/2020 - Day 07
+
+- problème de cors avec le serveur (requêtes axios):
+    - https://stackoverflow.com/questions/53298478/has-been-blocked-by-cors-policy-response-to-preflight-request-doesn-t-pass-acce
+    - https://github.com/nelmio/NelmioCorsBundle
+    - https://www.grafikart.fr/tutoriels/cors-http-navigateur-1180
+- problème de commit:
+    - utilisation de git revert nomducommit pour retourner en arrière
+- gestion de l'authentification avec LexitJWTtoken:
+    - problème de clé rsa sur le serveur:
+        - résolution via chmod 644 config/jwt (problème de droit et d'accès) -> https://github.com/lexik/JWTRefreshTokenBundle/issues/366#issuecomment-437710202
+- tuto sur https://github.com/markitosgv/JWTRefreshTokenBundle:
+    - https://www.youtube.com/watch?v=Lj1hz-gJHD8&t=2s
