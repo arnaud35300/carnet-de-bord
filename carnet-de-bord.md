@@ -84,8 +84,14 @@
 
 ## Sprint 2 
 
-### 09/03/2020 - Day 01
+### 10/03/2020 - Day 01
 
 - Réunion d'équipe
 - Présentation en équipe du projet
-- 
+- Gestion des events sur UserController
+- Création des voters et gestion des permissions
+- Update du serveur (git pull + maj de la base)
+
+### 11/03/2020 - Day 01
+
+- Réunion d'équipe

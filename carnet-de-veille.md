@@ -87,3 +87,16 @@
         - résolution via chmod 644 config/jwt (problème de droit et d'accès) -> https://github.com/lexik/JWTRefreshTokenBundle/issues/366#issuecomment-437710202
 - tuto sur https://github.com/markitosgv/JWTRefreshTokenBundle:
     - https://www.youtube.com/watch?v=Lj1hz-gJHD8&t=2s
+  
+## Sprint 2 
+
+### 10/03/2020 - Day 01
+
+- Documentation sur les events: 
+    - https://symfony.com/doc/current/doctrine/events.html
+    - https://www.doctrine-project.org/projects/doctrine-orm/en/2.6/reference/events.html
+- Documentation sur les voters: 
+    - https://symfony.com/doc/current/security/voters.html
+
+### 11/03/2020 - Day 02
+
