@@ -100,3 +100,9 @@
 
 ### 11/03/2020 - Day 02
 
+- Difficultés pour créer le service Delimiter:
+    - réflexion mathématiques ( perimètre à gérer)
+- Problèmes de regex pour le mot de passe des utilisateurs:
+    -  création d'une nouvelle : https://www.imtiazepu.com/password-validation/
+  
+### 11/03/2020 - Day 03

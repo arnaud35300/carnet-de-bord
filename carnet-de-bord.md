@@ -92,6 +92,15 @@
 - Création des voters et gestion des permissions
 - Update du serveur (git pull + maj de la base)
 
-### 11/03/2020 - Day 01
+### 11/03/2020 - Day 02
+
+- Réunion d'équipe
+- Mise en place d'une regex pour le password
+- Modification de UserEvent (ajout du birthday)
+- Gestion de la largeur des astres ( services Delimiter crée)
+- Création d'une route dans UserController qui retourne l'utilisateur connecté
+- Aide pour la modification du CelestialBodyController et de ses méthodes (création en prime de la méthode verifyDelimiter)
+ 
+### 12/03/2020 - Day 03
 
 - Réunion d'équipe
