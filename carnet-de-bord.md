@@ -104,3 +104,10 @@
 ### 12/03/2020 - Day 03
 
 - Réunion d'équipe
+- Début du debug de l'authentification
+- Désinstallation de refreshJWTtokenbundle et test
+- Mise en place d'un event kernel empechant aux utilisateurs d'etre banni
+
+### 13/03/2020 - Day 04
+
+- Réunion d'équipe
