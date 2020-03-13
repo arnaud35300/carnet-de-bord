@@ -106,3 +106,6 @@
     -  création d'une nouvelle : https://www.imtiazepu.com/password-validation/
   
 ### 11/03/2020 - Day 03
+
+- Réflexion pour débuguer le problème d'authentification avex lexiqJWT ( problème non résolu )
+- Réflexion pour la mise en place d'un évènement kernel via un EventSubscriber
