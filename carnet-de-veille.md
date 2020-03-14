@@ -109,3 +109,10 @@
 
 - Réflexion pour débuguer le problème d'authentification avex lexiqJWT ( problème non résolu )
 - Réflexion pour la mise en place d'un évènement kernel via un EventSubscriber
+
+### 11/03/2020 - Day 04
+
+- Problématique concernant l'upload d'image en full api :
+    - http://image.intervention.io/use/basics
+    - https://ourcodeworld.com/articles/read/53/how-to-upload-a-file-with-jquery-ajax-in-php-or-symfony
+    - https://forum.omeka.org/t/upload-a-file-using-rest-api/3672

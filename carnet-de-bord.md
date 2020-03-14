@@ -111,3 +111,8 @@
 ### 13/03/2020 - Day 04
 
 - Réunion d'équipe
+- Mise en place d'un service pour l'upload d'image
+
+### 13/03/2020 - Day 05
+
+- Réunion d'équipe
