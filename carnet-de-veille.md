@@ -116,3 +116,27 @@
     - http://image.intervention.io/use/basics
     - https://ourcodeworld.com/articles/read/53/how-to-upload-a-file-with-jquery-ajax-in-php-or-symfony
     - https://forum.omeka.org/t/upload-a-file-using-rest-api/3672
+  
+### 11/03/2020 - Day 05
+
+- Problématique sur l'upload d'image
+- Doc sur .gitignore :
+    - https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+    - https://stackoverflow.com/questions/8527597/how-do-i-ignore-files-in-a-directory-in-git
+    - https://gist.github.com/octocat/9257657
+- Manipulation des regex et des fichiers:
+    - regex : 
+        - https://www.php.net/manual/fr/function.preg-match.php
+        - https://www.php.net/manual/fr/function.preg-replace.php
+        - https://www.tutorialrepublic.com/php-tutorial/php-regular-expressions.php
+        - https://murviel-info.com/regex.php
+    - fichiers :
+        - https://www.php.net/manual/fr/function.rename.php
+        - https://www.php.net/manual/fr/function.unlink.php
+- Réflexion sur le type hinting des valeurs de retour des méthodes :
+    - https://mlocati.github.io/articles/php-type-hinting.html
+    - https://www.php.net/manual/fr/functions.returning-values.php#functions.returning-values.type-declaration
+    - https://stackoverflow.com/questions/46775489/is-it-possible-to-type-hint-more-than-one-type
+    - 
+- Problème sur la méthode PATCH:
+    - utilisation de POST mais précision de PATCH dans la méthode grâce à `$request->setMethod('PATCH')`

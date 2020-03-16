@@ -116,3 +116,12 @@
 ### 13/03/2020 - Day 05
 
 - Réunion d'équipe
+- Upload d'image en place
+- Modification des controlers (UserController|CelestialBodyController) pour gérer l'upload d'images
+- Création de regex pour gérer les noms de fichiers et vérifier le format du champ birthday de l'entité User
+- Modification du resize des images (on les crop désormais par rapport a leur hauteur)
+
+### 13/03/2020 - Day 06
+
+- Réunion d'équipe
+
