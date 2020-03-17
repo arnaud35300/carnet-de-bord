@@ -74,7 +74,7 @@
 - réécriture d'url apache:
 	- https://forum.ubuntu-fr.org/viewtopic.php?id=164810
 
-### 06/03/2020 - Day 07
+### 09/03/2020 - Day 07
 
 - problème de cors avec le serveur (requêtes axios):
     - https://stackoverflow.com/questions/53298478/has-been-blocked-by-cors-policy-response-to-preflight-request-doesn-t-pass-acce
@@ -105,19 +105,19 @@
 - Problèmes de regex pour le mot de passe des utilisateurs:
     -  création d'une nouvelle : https://www.imtiazepu.com/password-validation/
   
-### 11/03/2020 - Day 03
+### 12/03/2020 - Day 03
 
 - Réflexion pour débuguer le problème d'authentification avex lexiqJWT ( problème non résolu )
 - Réflexion pour la mise en place d'un évènement kernel via un EventSubscriber
 
-### 11/03/2020 - Day 04
+### 13/03/2020 - Day 04
 
 - Problématique concernant l'upload d'image en full api :
     - http://image.intervention.io/use/basics
     - https://ourcodeworld.com/articles/read/53/how-to-upload-a-file-with-jquery-ajax-in-php-or-symfony
     - https://forum.omeka.org/t/upload-a-file-using-rest-api/3672
   
-### 11/03/2020 - Day 05
+### 16/03/2020 - Day 05
 
 - Problématique sur l'upload d'image
 - Doc sur .gitignore :
@@ -140,3 +140,17 @@
     - 
 - Problème sur la méthode PATCH:
     - utilisation de POST mais précision de PATCH dans la méthode grâce à `$request->setMethod('PATCH')`
+  
+## Sprint 3 
+
+### 17/03/2020 - Day 01
+
+- Gestion de l'envoi des mail:
+    - https://symfony.com/doc/current/email.html
+- Mise en place du dictionnaire des mots interdits:
+    - https://banbuilder.com/
+    - https://github.com/snipe/banbuilder
+- Suppression de branche distante avec git:
+    - https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git
+- Problème avec les events du kernel, impossibilité d'arrêter le script en cours avec:
+    - `return $this->json` -> On est passé par un Service pour gérer les mots interdits

@@ -113,15 +113,20 @@
 - Réunion d'équipe
 - Mise en place d'un service pour l'upload d'image
 
-### 13/03/2020 - Day 05
+### 16/03/2020 - Day 05
 
 - Réunion d'équipe
+- Correction du problème de token ( suppression de l'event preUpdate du UserEvent qui réencodait le mdp à 	chaque fois)
 - Upload d'image en place
 - Modification des controlers (UserController|CelestialBodyController) pour gérer l'upload d'images
 - Création de regex pour gérer les noms de fichiers et vérifier le format du champ birthday de l'entité User
 - Modification du resize des images (on les crop désormais par rapport a leur hauteur)
 
-### 13/03/2020 - Day 06
+## Sprint 3
+
+### 17/03/2020 - Day 01
 
 - Réunion d'équipe
+- Mise en place de l'envoi d'email avec SwiftMailer
+- Mise en place du dictionnaire des mots interdit et d'un évènement du Kernel
 
