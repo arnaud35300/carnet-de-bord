@@ -130,3 +130,9 @@
 - Mise en place de l'envoi d'email avec SwiftMailer
 - Mise en place du dictionnaire des mots interdit et d'un évènement du Kernel
 
+### 17/03/2020 - Day 02
+
+- Réunion d'équipe
+- Refactorisation du code
+- Déploiement du serveur front
+- Debuguage sur banbuilder sur le serveur

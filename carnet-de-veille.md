@@ -154,3 +154,11 @@
     - https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git
 - Problème avec les events du kernel, impossibilité d'arrêter le script en cours avec:
     - `return $this->json` -> On est passé par un Service pour gérer les mots interdits
+
+### 18/03/2020 - Day 02
+
+- Problème sur nelmioCors, impossibilité de définir les cors liés au site
+- Déploiement du serveur front, installation de yarn :
+    - https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/
+    - https://forum.ubuntu-fr.org/viewtopic.php?id=164810 (réecriture d'url)
+- Problème avec banbuilder sur le serveur, il détecte des mots interdits à chaque fosi (problème non résolu)
