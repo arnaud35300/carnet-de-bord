@@ -130,9 +130,17 @@
 - Mise en place de l'envoi d'email avec SwiftMailer
 - Mise en place du dictionnaire des mots interdit et d'un évènement du Kernel
 
-### 17/03/2020 - Day 02
+### 18/03/2020 - Day 02
 
 - Réunion d'équipe
 - Refactorisation du code
 - Déploiement du serveur front
 - Debuguage sur banbuilder sur le serveur
+
+### 19/03/2020 - Day 03
+
+- Gestion des cors pour autoriser uniquement le domaine front
+- Veille technologique sur l'authentification avec Anthony
+- Récupération des images(avatar, badges etc...)
+- Rectification du service delimiter dans les contôleurs
+- Envoi d'email lors du ban 
