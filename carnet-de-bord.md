@@ -144,3 +144,10 @@
 - Récupération des images(avatar, badges etc...)
 - Rectification du service delimiter dans les contôleurs
 - Envoi d'email lors du ban 
+
+### 20/03/2020 - Day 04
+
+- Intégration de nouvelles images
+- Authentification sur le back office
+- Début des pages du back office
+- Modification de AdminController pour le backOffice

@@ -161,10 +161,15 @@
 - Déploiement du serveur front, installation de yarn :
     - https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/
     - https://forum.ubuntu-fr.org/viewtopic.php?id=164810 (réecriture d'url)
-- Problème avec banbuilder sur le serveur, il détecte des mots interdits à chaque fosi (problème non résolu)
+- Problème avec banbuilder sur le serveur, il détecte des mots interdits à chaque fois (problème non résolu)
 
 ### 19/03/2020 - Day 03
 
 - Changement des droits des fichiers contenant les images sur le serveur aws : 
     - `chmod 777 -R images`
 - Génération de la doc avec swagger n'a pas été faite car il faut des annotations spécifiques
+
+### 20/03/2020 - Day 04
+
+Personnalisation des pages d'erreurs symfony :
+    - https://symfony.com/doc/current/controller/error_pages.html
