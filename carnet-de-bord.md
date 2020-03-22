@@ -151,3 +151,8 @@
 - Authentification sur le back office
 - Début des pages du back office
 - Modification de AdminController pour le backOffice
+
+### 21/03/2020 - Day 05
+
+- Intégration des pages du backoffice 
+- Modification de fichiers de configuration (.env)
